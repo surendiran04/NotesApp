@@ -1,6 +1,6 @@
 import React from 'react';
 import TaskCard from '../components/Taskcard';
-import Mytask from '../components/Mytask';
+import Mytask from '../components/MyTask';
 
 
 

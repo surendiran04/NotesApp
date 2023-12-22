@@ -1,6 +1,6 @@
 import React  from 'react'
 import Mynotes from '../components/Mynotes'
-import Mytask from '../components/Mytask'
+import Mytask from '../components/MyTask'
 
 
 
